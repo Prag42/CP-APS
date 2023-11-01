@@ -1,0 +1,11 @@
+Django==4.2.1
+psycopg2-binary==2.9.1
+djangorestframework  # Django REST framework for building APIs
+djangorestframework-jsonapi
+django-filter==23.2
+django-import-export
+nameparser
+django-admin-rangefilter
+django-nested-inline
+Pillow
+django-cors-headers
